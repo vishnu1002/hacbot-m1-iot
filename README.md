@@ -27,10 +27,18 @@ It monitors temperature and humidity levels to maintain a comfortable environmen
 * LCD 16x2 Display
 
 
-## System Architecture
+### System Architecture
 
 ![App Screenshot](https://github.com/vishnu1002/hacbot-m1-iot/blob/aa3221d255c60774adbe0c1d0d3f1575ab5c8265/images/System%20Architecture.png)
 
-## Prototype Model
+### Prototype Model
 
 ![App Screenshot](https://github.com/vishnu1002/hacbot-m1-iot/blob/aa3221d255c60774adbe0c1d0d3f1575ab5c8265/images/PROTOTYPE.png)
+
+### Images
+
+![App Screenshot](https://github.com/vishnu1002/hacbot-m1-iot/blob/aa3221d255c60774adbe0c1d0d3f1575ab5c8265/images/image1.png)
+
+![App Screenshot](https://github.com/vishnu1002/hacbot-m1-iot/blob/aa3221d255c60774adbe0c1d0d3f1575ab5c8265/images/image2.png)
+
+![App Screenshot](https://github.com/vishnu1002/hacbot-m1-iot/blob/aa3221d255c60774adbe0c1d0d3f1575ab5c8265/images/image3.png)
