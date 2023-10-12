@@ -37,8 +37,8 @@ It monitors temperature and humidity levels to maintain a comfortable environmen
 
 ### Images
 
-![App Screenshot](https://github.com/vishnu1002/hacbot-m1-iot/blob/aa3221d255c60774adbe0c1d0d3f1575ab5c8265/images/image1.png)
+![App Screenshot](https://github.com/vishnu1002/hacbot-m1-iot/blob/85d3dec5244d0d06d207905e6689b328c1dd4abd/images/image1.jpg)
 
-![App Screenshot](https://github.com/vishnu1002/hacbot-m1-iot/blob/aa3221d255c60774adbe0c1d0d3f1575ab5c8265/images/image2.png)
+![App Screenshot](https://github.com/vishnu1002/hacbot-m1-iot/blob/85d3dec5244d0d06d207905e6689b328c1dd4abd/images/image2.jpg)
 
-![App Screenshot](https://github.com/vishnu1002/hacbot-m1-iot/blob/aa3221d255c60774adbe0c1d0d3f1575ab5c8265/images/image3.png)
+![App Screenshot](https://github.com/vishnu1002/hacbot-m1-iot/blob/85d3dec5244d0d06d207905e6689b328c1dd4abd/images/image3.jpg)
